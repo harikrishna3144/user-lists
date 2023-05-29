@@ -1,0 +1,40 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+
+}
+
+.image-style{
+    height: 70px;
+    width: 70px;
+    border-radius: 52px;
+    margin-right: 20px;
+    margin-left: 6px;
+    margin-bottom: 9px;
+
+}
+
+.sub-container{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.heading{
+    margin-top: 0px;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    font-size: 24px;
+    color: #12022f;
+
+}
+
+.description{
+    margin: 0px;
+    padding-top: 0px;
+    font-size: 16px;
+    color:#594d6d;
+}

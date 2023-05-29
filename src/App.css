@@ -1,0 +1,16 @@
+.app-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.heading-text{
+  text-align: center;
+  font-size: 32px;
+  color: #183b56;
+  text-decoration: underline;
+}
+
